@@ -4,7 +4,7 @@
 
 # install besttrace
 if [ ! -f "besttrace" ]; then
-    wget https://github.com/zq/shell/raw/master/besttrace
+    wget https://github.com/wn789/VPS-/raw/master/besttrace
     # unzip besttrace4linux.zip
     chmod +x besttrace
 fi
